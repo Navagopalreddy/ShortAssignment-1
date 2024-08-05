@@ -1,7 +1,7 @@
 import openai
 
 # Set your API key directly in the code for testing
-openai.api_key = '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'
+openai.api_key = ''
 
 def generate_json_from_resume(resume_text):
     prompt = f"""
