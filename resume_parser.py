@@ -1,6 +1,5 @@
 import openai
 
-# Set your API key directly in the code for testing
 openai.api_key = ''
 
 def generate_json_from_resume(resume_text):
